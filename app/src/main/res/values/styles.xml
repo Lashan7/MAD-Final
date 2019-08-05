@@ -8,4 +8,251 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--
+      Font family: Open Sans
+      Line height: 41sp
+    -->
+    <!-- styles.xml -->
+    <style name="add_reminde">
+
+        <item name="android:textSize">
+            30sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+    <!--
+      Font family: Open Sans
+      Line height: 41sp
+    -->
+    <!-- styles.xml -->
+    <style name="title">
+
+        <item name="android:textSize">
+            30sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 20sp
+    -->
+    <!-- styles.xml -->
+    <style name="notes">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 20sp
+    -->
+    <!-- styles.xml -->
+    <style name="date">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 20sp
+    -->
+    <!-- styles.xml -->
+    <style name="time">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+     Font family: Open Sans
+     Line height: 20sp
+   -->
+    <!-- styles.xml -->
+    <style name="alert_type">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 20sp
+    -->
+    <!-- styles.xml -->
+    <style name="repeat">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #CBCBCB
+        </item>
+
+    </style>
+    <!--
+          Font family: Open Sans
+          Line height: 20sp
+        -->
+    <!-- styles.xml -->
+    <style name="cancel">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 20sp
+    -->
+    <!-- styles.xml -->
+    <style name="save">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 11sp
+    -->
+
+    <!--
+      Font family: Open Sans
+      Line height: 11sp
+    -->
+    <!-- styles.xml -->
+    <style name="restore">
+
+        <item name="android:textSize">
+            8sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+          Font family: Open Sans
+          Line height: 14sp
+          (identical to box height)
+        -->
+    <!-- styles.xml -->
+    <style name="aug_8_30_am">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+    Font family: Open Sans
+    Line height: 27sp
+  -->
+    <!-- styles.xml -->
+    <style name="dsa_online">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+          Font family: Open Sans
+          Line height: 14sp
+        -->
+    <!-- styles.xml -->
+    <style name="edit">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+      Font family: Open Sans
+      Line height: 14sp
+    -->
+    <!-- styles.xml -->
+    <style name="delete">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+     Font family: Open Sans
+     Line height: 14sp
+   -->
+    <!-- styles.xml -->
+    <style name="complete">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
 </resources>

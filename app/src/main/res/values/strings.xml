@@ -1,3 +1,97 @@
 <resources>
     <string name="app_name">Projecty</string>
+    <string name="add_reminde">Add Reminder</string>
+    <!-- strings.xml -->
+    <string name="title">
+
+        Title
+    </string>
+    <!-- strings.xml -->
+    <string name="notes">
+
+        Notes
+    </string>
+    <!-- strings.xml -->
+    <string name="date">
+
+        Date
+    </string>
+
+    <!-- strings.xml -->
+    <string name="time">
+
+        Time
+    </string>
+    <!-- strings.xml -->
+    <string name="alert_type">
+
+        Alert type
+    </string>
+    <!-- strings.xml -->
+    <string name="repeat">
+
+        Repeat
+    </string>
+    <!-- strings.xml -->
+    <string name="cancel">
+
+        Cancel
+    </string>
+    <!-- strings.xml -->
+    <string name="save">
+
+        Save
+    </string>
+
+
+    <string-array name="alert_type">
+        <item>Never</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+    <string-array name="repeat">
+        <item>Ring Once</item>
+        <item>Keep ringing</item>
+    </string-array>
+    <!-- strings.xml -->
+    <string name="delete">
+
+        Delete
+    </string>
+    <!-- strings.xml -->
+    <string name="restore">
+
+        Restore
+    </string>
+    <!-- strings.xml -->
+    <string name="aug_8_30_am">
+
+        5 Aug, 8.30 am
+    </string>
+    <!-- strings.xml -->
+    <string name="dsa_online">
+
+        DSA Online
+    </string>
+    <string name="tvAlert">Alert Type</string>
+    <string name="tvRepeat">Repeat</string>
+    <!-- strings.xml -->
+    <string name="edit">
+
+        Edit
+    </string>
+    <!-- strings.xml -->
+
+    <!-- strings.xml -->
+    <string name="complete">
+
+        Complete
+    </string>
+    <string name="reminder">Reminder</string>
+    <string name="mad_viva">MAD_Viva</string>
+    <string name="aug">5 Aug, 8.30 am</string>
+    <string name="dis">View</string>
 </resources>
